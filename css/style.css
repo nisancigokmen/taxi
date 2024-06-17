@@ -832,7 +832,13 @@ home_video video {
   #videos ul li {
     padding-bottom: 27px;
   }
+  #list_services ul {
+    display: block;
+  }
 
+  #list_services ul li {
+    padding-bottom: 27px;
+  }
   /*-------Contact Mobile-------*/
   #contact ul {
     display: block;
